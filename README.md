@@ -1,2 +1,2 @@
-Nicolás Loaiza Chicaiza
+- Nicolás Loaiza Chicaiza
 - Juan Pablo Leon Pineda
