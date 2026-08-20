@@ -1,2 +1,3 @@
 - Nicolás Loaiza Chicaiza
 - Juan Pablo Leon Pineda
+- Samuel Luna Puentes
